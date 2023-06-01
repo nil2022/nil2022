@@ -5,11 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nil2022" alt="nil2022" /></a> </p>
 
-- 🔭 I’m currently working on **CRM App, Movie Booking App**
+- 🔭 I’m currently working on **Instagram Clone, CRM App**
+
+- ⚒️ My Future Projects will be **Movie Booking App, Air India Clone**
 
 - 🌱 I’m currently learning **HTML, CSS, Javascript**
 
-- 👯 I’m looking to collaborate on **CRM App**
+- 👯 I’m looking to collaborate on **NodeJS Web Apps**
 
 - 💬 Ask me about **JavaScript, NodeJS, MongoDB, MySQL, ExpressJS**
 
