@@ -9,7 +9,7 @@
 
 - ⚒️ My Future Projects will be **Movie Booking App, Air India Clone**
 
-- 🌱 I’m currently learning **HTML, CSS, Javascript**
+- 🌱 I’m currently learning **HTML, CSS, Javascript, React**
 
 - 👯 I’m looking to collaborate on **NodeJS Web Apps**
 
