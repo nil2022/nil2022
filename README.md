@@ -43,4 +43,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nil2022&show_icons=true&locale=en&layout=compact" alt="nil2022" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=nil2022)](https://git.io/streak-stats)
+[![GitHub Streak][def]](https://git.io/streak-stats)
+
+
+[def]: https://streak-stats.demolab.com/?user=nil2022
