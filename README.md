@@ -12,7 +12,7 @@
 <!-- Github Trophy Stats -->
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-trophies.vercel.app/?username=nil2022" alt="nil2022" /></a> </p>
 
-- 🔭 I’m currently working on **CRM App**👨
+- 🔭 I’m currently working on **CRM App**
 
 - ⚒️ My Future Projects will be **Movie Booking App, Instagram Clone, Air India Clone**
 
@@ -70,7 +70,7 @@
 
 <!-- Continuous Contribution Streak & Total Contributions -->
 <p align="left">
-    <img src="https://streak-stats.demolab.com?user=nil2022&border_radius=5&date_format=j%20M%5B%20Y%5D&card_width=850&background=FFFFFF&fire=EB0000&border=000000">
+    <img src="https://github-readme-streak-stats-two-gamma.vercel.app/?user=nil2022&border_radius=5&date_format=j%20M%5B%20Y%5D&card_width=850&background=FFFFFF&fire=EB0000&border=000000">
     </img>
 </p>
 
