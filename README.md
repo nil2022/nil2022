@@ -32,7 +32,7 @@
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="./node-js1.png" alt="nodejs" width="50" height="50"/> 
     </a> 
     <!-- ExpressJS -->
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/> 
+    <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="express" width="180" height="50"/> 
     </a>
     <!-- Jest -->
     <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="50" height="50"/> 
