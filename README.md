@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on **Movie Booking App**
 
-- ⛵ My Past Project are **CRM App** (Backend Only)
+- ⛵ My Past Project was **CRM App** (Backend Only)
 
 - ⚒️ My Other Projects/App will be **Job Portal, Food Order App**
 
@@ -60,11 +60,11 @@
     <a href="https://render.com/" target="_blank" rel="noreferrer"> <img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_477db83f729d63210139ec7cd29c1351/render-render.png" alt="render" width="50" height="50">
     </a>
      <!-- Replit -->
-    <a href="https://replit.com/" target="_blank" rel="noreferrer"> <img src="https://blog.replit.com/images/new_logo/logotype.png?v=1664916455000" alt="replit" width="vw" height="50">
+    <a href="https://replit.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/New_Replit_Logo.svg/1024px-New_Replit_Logo.svg.png" alt="replit" width="vw" height="50">
     </a>
      <!-- Github Codespaces -->
-    <a href="https://github.com/features/codespaces" target="_blank" rel="noreferrer"> <img src="https://www.educationtoday.com.au/images/news/attach/news-5610-01.jpg" alt="codespace" width="vw" height="50">
-    </a>
+    <!-- <a href="https://github.com/features/codespaces" target="_blank" rel="noreferrer"> <img src="https://www.educationtoday.com.au/images/news/attach/news-5610-01.jpg" alt="codespace" width="vw" height="50">
+    </a> -->
      <!-- Codesandbox.io -->
     <a href="https://codesandbox.io/" target="_blank" rel="noreferrer"> <img src="https://s3.eu-west-1.amazonaws.com/niice-cms/2021/03/02/603ec20dc80e6codesandbox-1.png" alt="codesandboxio" width="vw" height="50">
     </a>
@@ -72,7 +72,7 @@
 
 <!-- Continuous Contribution Streak & Total Contributions -->
 <p align="left">
-    <img src="https://github-readme-streak-stats-two-gamma.vercel.app/?user=nil2022&border_radius=5&date_format=j%20M%5B%20Y%5D&card_width=500&background=FFFFFF&fire=EB0000&border=000000">
+    <img src="https://github-readme-streak-stats-2zuvnwx9l-nil2022.vercel.app?user=nil2022&border_radius=5&date_format=j%20M%5B%20Y%5D&card_width=450&background=FFFFFF&fire=EB0000&border=000000">
     </img>
 </p>
 
