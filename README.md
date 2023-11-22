@@ -72,7 +72,7 @@
 
 <!-- Continuous Contribution Streak & Total Contributions -->
 <p align="left">
-    <img src="https://github-readme-streak-stats-2zuvnwx9l-nil2022.vercel.app?user=nil2022&border_radius=5&date_format=j%20M%5B%20Y%5D&card_width=450&background=FFFFFF&fire=EB0000&border=000000">
+    <img src="https://github-readme-streak-stats-nil2022.vercel.app?user=nil2022&border_radius=5&date_format=j%20M%5B%20Y%5D&card_width=450&background=FFFFFF&fire=EB0000&border=000000">
     </img>
 </p>
 
