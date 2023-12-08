@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nilanjan Haldar</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
+<h1 align="center">Hello 👋, I'm Nilanjan</h1>
+<h3 align="center">A Backend Node.js developer, Crafting dynamic web experiences through Node.js expertise & RESTful APIs.</h3>
 
 <!-- <p align="center">
     <img src="https://streak-stats.demolab.com?user=nil2022&border_radius=5&date_format=j%20M%5B%20Y%5D&card_width=650&background=FFFFFF&fire=EB0000&border=000000">
@@ -14,15 +14,15 @@
 
 - 🔭 I’m currently working on **Movie Booking App**
 
-- ⛵ My Past Project was **CRM App** (Backend Only)
+- ⛵ My Past Projects were **CRM App,** **E-Commerce App,** **Social App,** **Book-store App**
 
-- ⚒️ My Other Projects/App will be **Job Portal, Food Order App**
+<!-- - ⚒️ My Other Projects/App will be **Job Portal, Food Order App** -->
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React.js, Next.js**
 
-- 👯 I’m looking to collaborate on **NodeJS Web Apps, RESTful APIs, ExpressJS, Git**
+- 👯 I’m looking to collaborate on **NodeJS Apps, RESTful APIs, ExpressJS Apps, Git, HTML**
 
-- 💬 Ask me about **JavaScript, NodeJS, Git, Github, Tailwind CSS, MongoDB, ExpressJS, RESTfulAPIs**
+- 💬 Ask me about **JavaScript, NodeJS, ExpressJS, RESTfulAPIs, Git/Github, Tailwind CSS, MongoDB, PostgreSQL**
 
 <!-- Languages and Tools -->
 <h2 align="left">Languages and Tools:</h2>
