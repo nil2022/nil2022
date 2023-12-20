@@ -18,7 +18,7 @@
 
 <!-- - ⚒️ My Other Projects/App will be **Job Portal, Food Order App** -->
 
-- 🌱 I’m currently learning **Nest.Js, React.js, Next.js**
+- 🌱 I’m currently learning **Nest.Js, React.js, Next.js, Typescript**
 
 - 👯 I’m looking to collaborate on **NodeJS/NestJS Apps, RESTful APIs, ExpressJS Apps, Git, HTML**
 
@@ -29,6 +29,9 @@
 <p align="left">
     <!-- JavaScript -->
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> 
+    </a>
+    <!-- Typescript -->
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="javascript" width="50" height="50"/> 
     </a>
     <!-- Node.JS -->
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="./node-js1.png" alt="nodejs" width="50" height="50"/> 
