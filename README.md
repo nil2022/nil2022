@@ -22,7 +22,7 @@
 
 - 👯 I’m looking to collaborate on **NodeJS/NestJS Apps, RESTful APIs, ExpressJS Apps, Git, HTML**
 
-- 💬 Ask me about **JavaScript, NodeJS, ExpressJS, RESTfulAPIs, Git/Github, Tailwind CSS, MongoDB, PostgreSQL**
+- 💻 My Tech Stack -  **JavaScript, NodeJS, ExpressJS, RESTfulAPIs, Git/Github, Tailwind CSS, MongoDB, PostgreSQL, GitHub Actions**
 
 <!-- Languages and Tools -->
 <h2 align="left">Languages and Tools:</h2>
@@ -37,7 +37,10 @@
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="./node-js1.png" alt="nodejs" width="50" height="50"/> 
     </a> 
     <!-- Nest.JS -->
-    <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/5f54c0817521724a2deae8dedf0c280a589fd0aa9bffd7f19fa6254bb52e996a/68747470733a2f2f6e6573746a732e636f6d2f696d672f6c6f676f2d736d616c6c2e737667" alt="nodejs" width="50" height="50"/> 
+    <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://nestjs.com/logo-small.ede75a6b.svg" alt="nodejs" width="50" height="50"/> 
+    </a> 
+    <!-- GitHub CI/CD -->
+    <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/44036562?s=280&v=4" alt="Github_actions" width="50" height="50"/> 
     </a> 
     <!-- TypeORM -->
     <a href="https://typeorm.io/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/20165699?s=200&v=4" alt="nodejs" width="50" height="50"/> 
