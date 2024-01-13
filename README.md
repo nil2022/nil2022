@@ -12,17 +12,33 @@
 <!-- Github Trophy Stats -->
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-trophies.vercel.app/?username=nil2022" alt="nil2022" /></a> </p>
 
-- 🔭 I’m currently working on **Movie Booking App**
+<!-- - 🔭 I’m currently working on a Movie Booking App, which allows users to book movie tickets online. -->
 
-- ⛵ My Past Projects were **CRM App,** **E-Commerce App,** **Social App,** **Book-store App**
+- ⛵ **My Past Projects include:**
+  - **CRM App:** A customer relationship management application for managing customer interactions.
+  - **E-Commerce App:** An online shopping platform for buying and selling products.
+  - **Social App:** A social networking application for connecting with friends and sharing updates.
+  - **Book-store App:** An application for browsing and purchasing books online.
 
-<!-- - ⚒️ My Other Projects/App will be **Job Portal, Food Order App** -->
+<!-- - ⚒️ My Other Projects/App will be:
+  - Job Portal: An online platform for job seekers and employers to connect.
+  - Food Order App: An application for ordering food from restaurants. -->
 
-- 🌱 I’m currently learning **Nest.Js, React.js, Next.js, Typescript, TypeORM**
+- 🌱 I’m currently learning **Nest.Js, React.js, Next.js, Typescript, and TypeORM**           to enhance my skills and expand my knowledge.
 
-- 👯 I’m looking to collaborate on **NodeJS/NestJS Apps, RESTful APIs, ExpressJS Apps, Git, HTML**
+- 👯 I’m looking to collaborate on **NodeJS/NestJS Apps, RESTful APIs, ExpressJS Apps, Git, and HTML.**
 
-- 💻 My Tech Stack -  **JavaScript, NodeJS, ExpressJS, RESTfulAPIs, Git/Github, Tailwind CSS, MongoDB, PostgreSQL, GitHub Actions**
+- 💻 ***My Tech Stack:***
+  - **JavaScript**: For building interactive web applications.
+  - **NodeJS**: For server-side development.
+  - **ExpressJS**: A web application framework for Node.js.
+  - **RESTfulAPIs**: For building scalable and interoperable APIs.
+  - **Git/Github**: Version control and collaboration.
+  - **Tailwind CSS**: A utility-first CSS framework.
+  - **MongoDB**: A NoSQL database for storing data.
+  - **PostgreSQL**: A relational database for structured data.
+  - **GitHub Actions**: For automating workflows and continuous integration.
+  - **CircleCI**: For continuous integration and deployment.
 
 <!-- Languages and Tools -->
 <h2 align="left">Languages and Tools:</h2>
