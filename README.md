@@ -24,7 +24,7 @@
   - Job Portal: An online platform for job seekers and employers to connect.
   - Food Order App: An application for ordering food from restaurants. -->
 
-- 🌱 I’m currently learning **Nest.Js, React.js, Next.js, Typescript, and TypeORM**           to enhance my skills and expand my knowledge.
+- 🌱 I’m currently learning **Nest.Js, React.js, Next.js, Typescript, PrismaORM and TypeORM**           to enhance my skills and expand my knowledge.
 
 - 👯 I’m looking to collaborate on **NodeJS/NestJS Apps, RESTful APIs, ExpressJS Apps, Git, and HTML.**
 
@@ -95,6 +95,9 @@
     </a> -->
      <!-- Codesandbox.io -->
     <a href="https://codesandbox.io/" target="_blank" rel="noreferrer"> <img src="https://s3.eu-west-1.amazonaws.com/niice-cms/2021/03/02/603ec20dc80e6codesandbox-1.png" alt="codesandboxio" width="vw" height="50">
+    </a>
+     <!-- Prisma.io -->
+    <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/17219288?s=200&v=4" alt="PrismaORM" width="vw" height="50">
     </a>
 </p>
 
