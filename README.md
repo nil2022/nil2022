@@ -108,7 +108,7 @@
 </p>
 <!-- Github Stats -->
 <p align="left" height="50" width="50">
-    <img src="https://github-readme-stats.vercel.app/api?username=nil2022&show_icons=true&theme=transparent">
+    <img src="https://github-readme-stats.vercel.app/api?username=nil2022&show_icons=true">
     </img>
 </p>
 
