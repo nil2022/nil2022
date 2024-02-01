@@ -106,6 +106,11 @@
     <img src="https://github-readme-streak-stats-nil2022.vercel.app?user=nil2022&border_radius=5&date_format=j%20M%5B%20Y%5D&card_width=450&background=FFFFFF&fire=EB0000&border=000000">
     </img>
 </p>
+<!-- Github Stats -->
+<p align="left" height="50" width="50">
+    <img src="https://github-readme-stats.vercel.app/api?username=nil2022&show_icons=true&theme=transparent">
+    </img>
+</p>
 
 <!-- Most Used Languages -->
 <p align="left">
