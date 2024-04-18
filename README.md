@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Nilanjan</h1>
-<h3 align="center">A Backend Node.js developer, Crafting dynamic web experiences through Node.js expertise & RESTful APIs.</h3>
+<h3 align="center">Backend expertise seamlessly extended to Full-stack development with Next.js, proficient in architecting dynamic server-side functionalities and crafting immersive user interfaces</h3>
 
 <!-- <p align="center">
     <img src="https://streak-stats.demolab.com?user=nil2022&border_radius=5&date_format=j%20M%5B%20Y%5D&card_width=650&background=FFFFFF&fire=EB0000&border=000000">
