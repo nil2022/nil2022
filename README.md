@@ -59,7 +59,7 @@
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="./node-js1.png" alt="nodejs" width="50" height="50" style="border-radius: 50%; background-color: #fff;"/>
     </a>
     <!-- Nest.JS -->
-    <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://nestjs.com/logo-small-gradient.76616405.svg" alt="nodejs" width="50" height="50"/>
+    <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="nodejs" width="50" height="50"/>
     </a>
     <!-- GitHub CI/CD -->
     <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/44036562?s=280&v=4" alt="Github_actions" width="50" height="50"/>
@@ -92,7 +92,7 @@
     <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Netlify_logo_%282%29.svg" alt="netlify" width="50" height="50" style="border-radius: 50%; background-color: #fff;"/>
     </a>
      <!-- Render -->
-    <a href="https://render.com/" target="_blank" rel="noreferrer"> <img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_477db83f729d63210139ec7cd29c1351/render-render.png" alt="render" width="50" height="50">
+    <a href="https://render.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" alt="render" height="28">
     </a>
      <!-- Replit -->
     <a href="https://replit.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/New_Replit_Logo.svg/1024px-New_Replit_Logo.svg.png" alt="replit" width="vw" height="50">
